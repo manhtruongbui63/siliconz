@@ -1,0 +1,4 @@
+1. mongod --config /opt/homebrew/etc/mongod.conf --fork
+2. mongosh
+3. start robo 3T
+4. npm start
